@@ -94,7 +94,7 @@ export default function BirthdayGift() {
           )}
 
         <div className="relative w-full">
-          <Image src="/dialogue_box.png" alt="Dialogue Box" width={900} height={300} className="w-full h-auto" />
+          <Image src="./dialogue_box.png" alt="Dialogue Box" width={900} height={300} className="w-full h-auto" />
 
 
           <div className="absolute top-0 left-5 w-[58%] h-full flex font-semibold items-center p-6">
@@ -107,7 +107,7 @@ export default function BirthdayGift() {
           <div className="absolute top-[9%] right-[9.5%] w-[23%] aspect-square">
             <div className="relative w-full h-full">
               <Image
-                src="/Nikos.png"
+                src="./Nikos.png"
                 alt="Character Portrait"
                 width={128}
                 height={128}
