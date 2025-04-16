@@ -107,7 +107,7 @@ export default function BirthdayGift() {
           <div className="absolute top-[9%] right-[9.5%] w-[23%] aspect-square">
             <div className="relative w-full h-full">
               <Image
-                src="Nikos.png"
+                src="nikos.png"
                 alt="Character Portrait"
                 width={128}
                 height={128}
